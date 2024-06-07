@@ -1,0 +1,501 @@
+/* FOOTER CSS START-------------- */
+.a {
+    font-weight: initial;
+    font-size: 20px;
+    text-align: center;
+    color: #878787;
+}
+
+.b {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.b:hover {
+    color: #f8a402 !important;
+    transition: 1ms;
+}
+
+.p {
+    letter-spacing: 2px;
+    line-height: 26px;
+    text-align: justify;
+}
+
+.im {
+    height: 100px;
+    border-radius: 50px;
+}
+
+.icon {
+    color: white;
+    font-size: 30px;
+}
+
+.icon:hover {
+    color: darkcyan !important;
+}
+
+.da{
+    transition: all 0.3s;
+}
+
+.da:hover{
+    transform: scale(1.45);
+}
+
+/* -------------- FOOTER CSS END */
+
+
+/* SLIDER CSS START-------------- */
+.s {
+    height: 550px;
+}
+
+.s1 {
+    margin-bottom: 188px;
+    color: ivory;
+    text-shadow: 3px 3px 3px black;
+    font-size: 75px;
+}
+
+/* -------------- SLIDER CSS END */
+
+
+/* NAV BAR CSS START-------------- */
+.weblogo {
+    width: 65px;
+    border-radius: 45px;
+    height: 65px;
+}
+
+.navbar {
+    background-color: #0000009c !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.moblogo {
+    display: none;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 100;
+    font-size: 19px;
+}
+
+.navbar-nav li a:hover {
+    background-color: #0000009c;
+}
+
+.n {
+    padding: 0 90px;
+}
+
+.n1 {
+    border: 1px solid #fcb21b;
+    border-radius: 7px;
+}
+
+.n1:hover {
+    background: #fcb21b !important;
+}
+
+/* -------------- NAV BAR CSS END */
+
+
+/* HOME PAGE CSS START-------------- */
+.c1 {
+    width: 80%;
+}
+
+.im1 {
+    width: 100%;
+    height: 280px;
+}
+
+.b1 {
+    font-style: italic;
+    text-shadow: 1px 1px 1px;
+}
+
+.b2 {
+    font-size: 21px;
+    text-align: justify;
+    line-height: 36px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px blanchedalmond;
+}
+
+.banner {
+    background: url(../image/4.webp);
+    width: 100%;
+    height: 425px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner h1 {
+    position: relative;
+    top: 64px;
+    font-size: 59px;
+    font-weight: bolder;
+    font-family: prague;
+}
+
+.banner p {
+    position: relative;
+    top: 71px;
+    color: white;
+    letter-spacing: 1px;
+    line-height: 34px;
+    font-weight: 400;
+    text-align: justify;
+    text-shadow: 1px 1px 1px steelblue;
+}
+
+.bt {
+    position: relative;
+    top: 77px;
+    background-color: darkgray;
+    box-shadow: 1px 1px 6px blanchedalmond;
+}
+
+.bt:hover {
+    background-color: darkgray;
+    color: white;
+}
+
+/* -------------- HOME PAGE CSS END */
+
+/* BOOK PAGE CSS START-------------- */
+
+.back {
+    background: beige;
+}
+
+.back img {
+    height: 300px;
+    width: 407px;
+    border-radius: 65px;
+}
+
+.back h1 {
+    font-size: 64px;
+    font-family: 'prague';
+    text-shadow: 1px 1px 1px rosybrown;
+}
+
+.but {
+    background: yellowgreen;
+    border: none;
+    color: black;
+}
+
+.butt {
+    background-color: #f8a402;
+    border: none;
+    color: black;
+}
+
+.heading span {
+    font-size: 2.5rem;
+    background: rgba(255, 165, 0, .2);
+    color: orange;
+    border-radius: 10px;
+    padding: 0rem 1rem;
+}
+
+.ca{
+    transition: all 0.3s;
+}
+
+.ca:hover{
+    transform: scale(1.15);
+    box-shadow: 0 1rem 2rem rgb(19,23,38);
+}
+.alg{
+    font-weight: 700;
+    text-shadow: '1px 1px 1px lightsteelblue';
+}
+.alg1{
+    color: blue;
+}
+.alg2{
+  font-size: 21px;
+  color: blue;
+}
+.alg3{
+   color: black;
+}
+.alg4{
+    text-align:center ;
+     padding:2.5rem 0
+}
+/* -------------- BOOK PAGE CSS END */
+
+
+
+/* SERVICE PAGE CSS START-------------- */
+
+.ban {
+    background: url(../image/13.jpg);
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.ban span {
+    position: relative;
+    top: 257px;
+    font-size: 80px;
+    font-family: 'prague';
+    color: beige;
+    text-shadow: 3px 4px 14px firebrick;
+}
+
+.c2:hover {
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 1);
+    ;
+}
+
+.c2 i {
+    font-size: 80px;
+    color: rebeccapurple;
+}
+
+.c2 p {
+    font-size: 21px;
+    line-height: 40px;
+    color: #666;
+}
+
+/* -------------- SERVICE PAGE CSS END */
+
+
+
+
+/* CONTACT PAGE CSS START-------------- */
+
+.abc {
+    background: url(../image/sc1.png);
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.heading1 span {
+    font-size: 2.5rem;
+    background: rgba(255, 165, 0, .2);
+    color: orange;
+    border-radius: 10px;
+    padding: 0rem 1rem;
+}
+
+.mbtn {
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    border: none;
+    font-size: medium;
+    background-color: #ff4800;
+    margin-bottom: 15px;
+}
+
+.mbtn:hover {
+    background-color: yellow;
+}
+
+.amg {
+    border: 1px solid burlywood;
+    height: 305px;
+    position: relative;
+    right: 55px;
+}
+
+.abcd {
+    flex: 1 1 50rem;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    background-color: antiquewhite;
+}
+
+.abcd:hover {
+    box-shadow: 0 1rem 2rem rgba(0.0, 0, 0.1);
+}
+/* -------------- CONTACT PAGE CSS END */
+
+
+/* register css */
+.ab {
+    text-decoration: none;
+}
+
+.ab h4 {
+    font-size: 20px;
+}
+
+.ab h4:hover {
+    text-decoration: underline;
+}
+.alg5{
+    border: 1px solid black;
+    border-radius: 24px;
+}
+/* register css :end */
+
+/* signup css start */
+.alg6{
+    border: 1px solid black;
+     border-radius: 20px;
+}
+
+/* signup css end */
+
+/* MEDIAQUERRY START */
+@media (max-width : 768px) {
+
+    /* FOOTER MEDIAQUERRY START */
+    .a1 {
+        margin-top: -35px;
+    }
+
+    .a2 {
+        margin-top: 20px;
+    }
+
+    .a3 {
+        margin-top: 20px;
+    }
+
+    /* FOOTER MEDIAQUERRY END */
+
+
+
+    /* SLIDER MEDIAQUERRY START */
+    .s {
+        height: 310px;
+    }
+
+
+    .s1 {
+        font-size: 27px;
+        margin-bottom: 30px;
+    }
+
+    /* SLIDER MEDIAQUERRY END */
+
+
+
+    /* NAV BAR MEDIAQUERRY START */
+    .moblogo {
+        display: block;
+        border-radius: 23px;
+        height: 40px;
+        width: 40px;
+    }
+
+    .weblogo {
+        display: none;
+    }
+
+    .navbar {
+        background: #333333 !important;
+    }
+
+    .n {
+        padding: 0 30px;
+    }
+
+    .n1 {
+        border: none;
+    }
+
+    /* NAV BAR MEDIAQUERRY END */
+
+
+
+    /* HOME PAGE MEDIAQUERRY START */
+
+    .c1 {
+        width: 100%;
+    }
+
+    .b1 {
+        font-size: 21px;
+        margin-top: 37px;
+    }
+
+    .banner {
+        height: 585px;
+    }
+
+    .banner p {
+        color: #000;
+    }
+
+    /* HOME PAGE MEDIAQUERRY END */
+
+    /* BOOK PAGE MEDIAQUERRY START */
+
+    .back {
+        height: 620px;
+        width: 100%;
+    }
+
+    .back img {
+        width: 360px;
+    }
+
+    .back h1 {
+        position: relative;
+        bottom: 100px;
+    }
+
+    .back button {
+        position: relative;
+        bottom: 100px;
+    }
+
+    .c {
+        margin-top: 40px;
+    }
+
+    .heading span {
+        font-size: 19px;
+        padding: 0.5rem 0.9rem;
+    }
+
+    /* BOOK PAGE MEDIAQUERRY END */
+
+
+    /* CONTACT PAGE MEDIAQUERRY START */
+
+    .heading1 span {
+        font-size: 22px;
+        padding: 0.5rem 0.9rem;
+    }
+
+    .heading1t {
+        position: relative;
+        top: 22px;
+    }
+
+    .amg{
+        position: relative;
+    right: 0px;
+    }
+    
+    .abcd{
+        margin-top: 40px;
+    }
+
+    /* CONTACT PAGE MEDIAQUERRY END */
+}
